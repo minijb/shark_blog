@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "2 tracking branch",
+      "path": "git/04 github/2 tracking branch.md"
+    },
+    {
+      "basename": "1 local_to_remote",
+      "path": "git/04 github/1 local_to_remote.md"
+    },
+    {
+      "basename": "02 常用操作",
+      "path": "git/02 常用操作.md"
+    },
+    {
+      "basename": "README",
+      "path": "c++/CS106L/08 function and lambda/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "c++/CS106L/07 template function/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "c++/CS106L/06 class and const/README.md"
+    },
+    {
+      "basename": "4.3 blending",
+      "path": "opengl/learn opengl/4 advanced opengl/4.3 blending.md"
+    },
+    {
+      "basename": "4.2 Stencil testing",
+      "path": "opengl/learn opengl/4 advanced opengl/4.2 Stencil testing.md"
+    },
+    {
+      "basename": "4.1 depth testing",
+      "path": "opengl/learn opengl/4 advanced opengl/4.1 depth testing.md"
+    },
+    {
+      "basename": "3.2 mesh",
+      "path": "opengl/learn opengl/3 model loading/3.2 mesh.md"
+    },
+    {
+      "basename": "3.3 model",
+      "path": "opengl/learn opengl/3 model loading/3.3 model.md"
+    },
+    {
+      "basename": "3.1 Assimp",
+      "path": "opengl/learn opengl/3 model loading/3.1 Assimp.md"
+    },
+    {
+      "basename": "2.6 multiple lights",
+      "path": "opengl/learn opengl/2 light/2.6 multiple lights.md"
+    },
+    {
+      "basename": "2.5 Light casters 光源投射物",
+      "path": "opengl/learn opengl/2 light/2.5 Light casters 光源投射物.md"
+    },
+    {
+      "basename": "2.4Lighting_maps",
+      "path": "opengl/learn opengl/2 light/2.4Lighting_maps.md"
+    },
+    {
+      "basename": "1.3hellowindow",
+      "path": "opengl/learn opengl/1 start/1.3hellowindow.md"
+    },
+    {
+      "basename": "1.4helloTriangle",
+      "path": "opengl/learn opengl/1 start/1.4helloTriangle.md"
+    },
+    {
+      "basename": "1.2createWindow",
+      "path": "opengl/learn opengl/1 start/1.2createWindow.md"
+    },
+    {
+      "basename": "1.1opengl",
+      "path": "opengl/learn opengl/1 start/1.1opengl.md"
+    },
+    {
+      "basename": "vs 创建项目步骤",
+      "path": "c++/vs 创建项目步骤.md"
+    },
+    {
+      "basename": "12_useLiraries",
+      "path": "c++/网络教程/12_useLiraries.md"
+    },
+    {
+      "basename": "9_对象的生命周期",
+      "path": "c++/网络教程/9_对象的生命周期.md"
+    },
+    {
+      "basename": "8_操作符重载",
+      "path": "c++/网络教程/8_操作符重载.md"
+    },
+    {
+      "basename": "7_c++中的关键字",
+      "path": "c++/网络教程/7_c++中的关键字.md"
+    },
+    {
+      "basename": "6_arrays and string",
+      "path": "c++/网络教程/6_arrays and string.md"
+    },
+    {
+      "basename": "5_基础类型和类",
+      "path": "c++/网络教程/5_基础类型和类.md"
+    },
+    {
+      "basename": "4_visual studio setup",
+      "path": "c++/网络教程/4_visual studio setup.md"
+    },
+    {
+      "basename": "3_变量、方法、头文件",
+      "path": "c++/网络教程/3_变量、方法、头文件.md"
+    },
+    {
+      "basename": "2_c++编译器是如何工作的",
+      "path": "c++/网络教程/2_c++编译器是如何工作的.md"
+    },
+    {
+      "basename": "1_c++是如何工作的",
+      "path": "c++/网络教程/1_c++是如何工作的.md"
+    },
+    {
+      "basename": "2.3Materials",
+      "path": "opengl/learn opengl/2 light/2.3Materials.md"
+    },
+    {
+      "basename": "2.2Basic lighting",
+      "path": "opengl/learn opengl/2 light/2.2Basic lighting.md"
+    },
+    {
+      "basename": "2.1Colors",
+      "path": "opengl/learn opengl/2 light/2.1Colors.md"
+    },
+    {
+      "basename": "1.9Camera",
+      "path": "opengl/learn opengl/1 start/1.9Camera.md"
+    },
+    {
+      "basename": "1.6Texture",
+      "path": "opengl/learn opengl/1 start/1.6Texture.md"
+    },
+    {
+      "basename": "2023-05-14",
+      "path": "utils/2023-05-14.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "1.8Coordinate System",
+      "path": "opengl/learn opengl/1 start/1.8Coordinate System.md"
+    },
+    {
+      "basename": "1.7transformation",
+      "path": "opengl/learn opengl/1 start/1.7transformation.md"
+    },
+    {
+      "basename": "02 基本操作",
+      "path": "git/01 git基础/02 基本操作.md"
+    },
+    {
+      "basename": "02 恢复丢失的commit",
+      "path": "git/03 git进阶/02 恢复丢失的commit.md"
+    },
+    {
+      "basename": "1.5shader",
+      "path": "opengl/learn opengl/1 start/1.5shader.md"
+    },
+    {
+      "basename": "03 合并分支",
+      "path": "git/03 git进阶/03 合并分支.md"
+    },
+    {
+      "basename": "01 基础概念",
+      "path": "git/01 git基础/01 基础概念.md"
+    },
+    {
+      "basename": "README",
+      "path": "c++/CS106L/04 container/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "c++/CS106L/03 stream/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "c++/CS106L/05 iterator/README.md"
+    },
+    {
+      "basename": "论文",
+      "path": "深度学习/Masked Autoencoders Are Scalable Vision Learners/论文.md"
+    },
+    {
+      "basename": "01 cmake",
+      "path": "cmake/c++ 及 cmake/01 cmake.md"
+    },
+    {
+      "basename": "00 基础",
+      "path": "cmake/c++ 及 cmake/00 基础.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
