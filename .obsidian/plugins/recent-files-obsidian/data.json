@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "4.5 帧缓冲",
+      "path": "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md"
+    },
+    {
+      "basename": "4.4 面剔除",
+      "path": "opengl/learn opengl/4 advanced opengl/4.4 面剔除.md"
+    },
+    {
+      "basename": "1.6Texture",
+      "path": "opengl/learn opengl/1 start/1.6Texture.md"
+    },
+    {
+      "basename": "2.5 Light casters 光源投射物",
+      "path": "opengl/learn opengl/2 light/2.5 Light casters 光源投射物.md"
+    },
+    {
+      "basename": "2.3Materials",
+      "path": "opengl/learn opengl/2 light/2.3Materials.md"
+    },
+    {
+      "basename": "README",
+      "path": "c++/CS106L/08 function and lambda/README.md"
+    },
+    {
       "basename": "2 tracking branch",
       "path": "git/04 github/2 tracking branch.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "02 常用操作",
       "path": "git/02 常用操作.md"
-    },
-    {
-      "basename": "README",
-      "path": "c++/CS106L/08 function and lambda/README.md"
     },
     {
       "basename": "README",
@@ -51,10 +71,6 @@
     {
       "basename": "2.6 multiple lights",
       "path": "opengl/learn opengl/2 light/2.6 multiple lights.md"
-    },
-    {
-      "basename": "2.5 Light casters 光源投射物",
-      "path": "opengl/learn opengl/2 light/2.5 Light casters 光源投射物.md"
     },
     {
       "basename": "2.4Lighting_maps",
@@ -121,10 +137,6 @@
       "path": "c++/网络教程/1_c++是如何工作的.md"
     },
     {
-      "basename": "2.3Materials",
-      "path": "opengl/learn opengl/2 light/2.3Materials.md"
-    },
-    {
       "basename": "2.2Basic lighting",
       "path": "opengl/learn opengl/2 light/2.2Basic lighting.md"
     },
@@ -135,10 +147,6 @@
     {
       "basename": "1.9Camera",
       "path": "opengl/learn opengl/1 start/1.9Camera.md"
-    },
-    {
-      "basename": "1.6Texture",
-      "path": "opengl/learn opengl/1 start/1.6Texture.md"
     },
     {
       "basename": "2023-05-14",
@@ -191,14 +199,6 @@
     {
       "basename": "论文",
       "path": "深度学习/Masked Autoencoders Are Scalable Vision Learners/论文.md"
-    },
-    {
-      "basename": "01 cmake",
-      "path": "cmake/c++ 及 cmake/01 cmake.md"
-    },
-    {
-      "basename": "00 基础",
-      "path": "cmake/c++ 及 cmake/00 基础.md"
     }
   ],
   "omittedPaths": [],
