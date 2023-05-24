@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md",
+                "file": "opengl/附加/02 封装.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "80301dbd85497cd2",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md",
+                "file": "opengl/附加/02 封装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md",
+                "file": "opengl/附加/02 封装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md"
+                "file": "opengl/附加/02 封装.md"
               }
             }
           },
@@ -201,11 +200,12 @@
   },
   "active": "019017af2050fb2c",
   "lastOpenFiles": [
+    "opengl/附加/01 Assimp 库导入流程.md",
+    "opengl/附加/02 封装.md",
     "opengl/learn opengl/3 model loading/3.3 model.md",
     "opengl/learn opengl/3 model loading/3.2 mesh.md",
     "opengl/learn opengl/3 model loading/3.1 Assimp.md",
-    "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md",
-    "opengl/learn opengl/3 model loading/附加",
+    "opengl/附加",
     "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md",
     "xmake/a tour of cmake/03 依赖管理.md",
     "xmake/a tour of cmake/02 编译选项.md",
@@ -236,7 +236,6 @@
     "opengl/learn opengl/4 advanced opengl/4.2 Stencil testing.md",
     "opengl/learn opengl/4 advanced opengl/4.1 depth testing.md",
     "opengl/learn opengl/2 light/2.6 multiple lights.md",
-    "opengl/learn opengl/2 light/2.4Lighting_maps.md",
     "utils/Pasted image 20230519233758.png",
     "未命名.canvas",
     "opengl/learn opengl/00 code/p1/LearnOpengl/awesomeface.png",
