@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md",
+                "file": "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md",
+                "file": "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md",
+                "file": "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md"
+                "file": "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md"
               }
             }
           },
@@ -194,22 +194,35 @@
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "019017af2050fb2c",
   "lastOpenFiles": [
-    "opengl/learn opengl/4 advanced opengl/4.4 面剔除.md",
+    "opengl/learn opengl/3 model loading/3.3 model.md",
+    "opengl/learn opengl/3 model loading/3.2 mesh.md",
+    "opengl/learn opengl/3 model loading/3.1 Assimp.md",
+    "opengl/learn opengl/3 model loading/附加/01 Assimp 库导入流程.md",
+    "opengl/learn opengl/3 model loading/附加",
     "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md",
+    "xmake/a tour of cmake/03 依赖管理.md",
+    "xmake/a tour of cmake/02 编译选项.md",
+    "xmake/a tour of cmake/01 快速入门.md",
+    "git/02 常用操作.md",
+    "cmake/c++ 及 cmake/01 cmake.md",
+    "xmake/a tour of cmake",
+    "xmake",
+    "cmake/c++ 及 cmake/00 基础.md",
+    "c++/vs 创建项目步骤.md",
+    "opengl/learn opengl/4 advanced opengl/4.4 面剔除.md",
     "opengl/learn opengl/1 start/1.6Texture.md",
     "opengl/learn opengl/2 light/2.5 Light casters 光源投射物.md",
     "opengl/learn opengl/2 light/2.3Materials.md",
     "c++/CS106L/08 function and lambda/README.md",
     "git/04 github/2 tracking branch.md",
     "git/04 github/1 local_to_remote.md",
-    "git/02 常用操作.md",
     "opengl/learn opengl/00 code/p1/x64/Debug.baiduyun.uploading.cfg",
     "opengl/learn opengl/00 code/p1/lib/lib-vc2022/glfw3_mt.lib.baiduyun.uploading.cfg",
     "opengl/learn opengl/00 code/p1/lib/lib-vc2022/glfw3dll.lib.baiduyun.uploading.cfg",
@@ -217,27 +230,14 @@
     "opengl/learn opengl/00 code/p1/lib/lib-vc2022/glfw3.dll.baiduyun.uploading.cfg",
     "opengl/learn opengl/00 code/p1/LearnOpengl.sln.baiduyun.uploading.cfg",
     "opengl/learn opengl/00 code/p1/LearnOpengl/x64/Debug/LearnOpengl.tlog.baiduyun.uploading.cfg",
-    "opengl/learn opengl/00 code/p1/LearnOpengl/src/stb_image.h.baiduyun.uploading.cfg",
-    "opengl/learn opengl/00 code/p1/LearnOpengl/src/stb_image.cpp.baiduyun.uploading.cfg",
-    "opengl/learn opengl/00 code/p1/LearnOpengl/src/shader_s.h.baiduyun.uploading.cfg",
     "c++/CS106L/07 template function/README.md",
     "c++/CS106L/06 class and const/README.md",
     "opengl/learn opengl/4 advanced opengl/4.3 blending.md",
     "opengl/learn opengl/4 advanced opengl/4.2 Stencil testing.md",
     "opengl/learn opengl/4 advanced opengl/4.1 depth testing.md",
-    "opengl/learn opengl/3 model loading/3.2 mesh.md",
-    "opengl/learn opengl/3 model loading/3.3 model.md",
-    "opengl/learn opengl/3 model loading/3.1 Assimp.md",
     "opengl/learn opengl/2 light/2.6 multiple lights.md",
     "opengl/learn opengl/2 light/2.4Lighting_maps.md",
     "utils/Pasted image 20230519233758.png",
-    "opengl/learn opengl/1 start/1.3hellowindow.md",
-    "opengl/learn opengl/1 start/1.4helloTriangle.md",
-    "opengl/learn opengl/1 start/1.2createWindow.md",
-    "opengl/learn opengl/1 start/1.1opengl.md",
-    "c++/vs 创建项目步骤.md",
-    "c++/网络教程/12_useLiraries.md",
-    "c++/网络教程/9_对象的生命周期.md",
     "未命名.canvas",
     "opengl/learn opengl/00 code/p1/LearnOpengl/awesomeface.png",
     "opengl/learn opengl/00 code/p1/LearnOpengl/container.jpg",
