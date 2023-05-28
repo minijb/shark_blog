@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "01 基础操作",
+      "path": "git/命令使用/01 基础操作.md"
+    },
+    {
+      "basename": "02 常用操作",
+      "path": "git/02 常用操作.md"
+    },
+    {
       "basename": "4.5 帧缓冲",
       "path": "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md"
     },
@@ -65,10 +73,6 @@
       "path": "xmake/a tour of cmake/01 快速入门.md"
     },
     {
-      "basename": "02 常用操作",
-      "path": "git/02 常用操作.md"
-    },
-    {
       "basename": "01 cmake",
       "path": "cmake/c++ 及 cmake/01 cmake.md"
     },
@@ -95,14 +99,6 @@
     {
       "basename": "README",
       "path": "c++/CS106L/08 function and lambda/README.md"
-    },
-    {
-      "basename": "2 tracking branch",
-      "path": "git/04 github/2 tracking branch.md"
-    },
-    {
-      "basename": "1 local_to_remote",
-      "path": "git/04 github/1 local_to_remote.md"
     },
     {
       "basename": "README",
@@ -195,10 +191,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "02 基本操作",
-      "path": "git/01 git基础/02 基本操作.md"
     }
   ],
   "omittedPaths": [],
