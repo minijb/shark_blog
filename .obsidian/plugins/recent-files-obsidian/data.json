@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "02 封装",
-      "path": "opengl/附加/02 封装.md"
+      "basename": "4.5 帧缓冲",
+      "path": "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md"
+    },
+    {
+      "basename": "4.4 面剔除",
+      "path": "opengl/learn opengl/4 advanced opengl/4.4 面剔除.md"
+    },
+    {
+      "basename": "4.3 blending",
+      "path": "opengl/learn opengl/4 advanced opengl/4.3 blending.md"
+    },
+    {
+      "basename": "4.2 Stencil testing",
+      "path": "opengl/learn opengl/4 advanced opengl/4.2 Stencil testing.md"
+    },
+    {
+      "basename": "01 shell",
+      "path": "缺失的东西/01 shell.md"
     },
     {
       "basename": "01 Assimp 库导入流程",
       "path": "opengl/附加/01 Assimp 库导入流程.md"
+    },
+    {
+      "basename": "1.8Coordinate System",
+      "path": "opengl/learn opengl/1 start/1.8Coordinate System.md"
+    },
+    {
+      "basename": "1.9Camera",
+      "path": "opengl/learn opengl/1 start/1.9Camera.md"
+    },
+    {
+      "basename": "1.7transformation",
+      "path": "opengl/learn opengl/1 start/1.7transformation.md"
+    },
+    {
+      "basename": "02 封装",
+      "path": "opengl/附加/02 封装.md"
     },
     {
       "basename": "3.3 model",
@@ -19,10 +51,6 @@
     {
       "basename": "3.1 Assimp",
       "path": "opengl/learn opengl/3 model loading/3.1 Assimp.md"
-    },
-    {
-      "basename": "4.5 帧缓冲",
-      "path": "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md"
     },
     {
       "basename": "03 依赖管理",
@@ -51,10 +79,6 @@
     {
       "basename": "vs 创建项目步骤",
       "path": "c++/vs 创建项目步骤.md"
-    },
-    {
-      "basename": "4.4 面剔除",
-      "path": "opengl/learn opengl/4 advanced opengl/4.4 面剔除.md"
     },
     {
       "basename": "1.6Texture",
@@ -87,14 +111,6 @@
     {
       "basename": "README",
       "path": "c++/CS106L/06 class and const/README.md"
-    },
-    {
-      "basename": "4.3 blending",
-      "path": "opengl/learn opengl/4 advanced opengl/4.3 blending.md"
-    },
-    {
-      "basename": "4.2 Stencil testing",
-      "path": "opengl/learn opengl/4 advanced opengl/4.2 Stencil testing.md"
     },
     {
       "basename": "4.1 depth testing",
@@ -173,10 +189,6 @@
       "path": "opengl/learn opengl/2 light/2.1Colors.md"
     },
     {
-      "basename": "1.9Camera",
-      "path": "opengl/learn opengl/1 start/1.9Camera.md"
-    },
-    {
       "basename": "2023-05-14",
       "path": "utils/2023-05-14.md"
     },
@@ -185,20 +197,8 @@
       "path": "未命名.canvas"
     },
     {
-      "basename": "1.8Coordinate System",
-      "path": "opengl/learn opengl/1 start/1.8Coordinate System.md"
-    },
-    {
-      "basename": "1.7transformation",
-      "path": "opengl/learn opengl/1 start/1.7transformation.md"
-    },
-    {
       "basename": "02 基本操作",
       "path": "git/01 git基础/02 基本操作.md"
-    },
-    {
-      "basename": "02 恢复丢失的commit",
-      "path": "git/03 git进阶/02 恢复丢失的commit.md"
     }
   ],
   "omittedPaths": [],
