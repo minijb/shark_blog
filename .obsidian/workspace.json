@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/命令使用/01 基础操作.md",
+                "file": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/命令使用/01 基础操作.md",
+                "file": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/命令使用/01 基础操作.md",
+                "file": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/命令使用/01 基础操作.md"
+                "file": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md"
               }
             }
           },
@@ -201,8 +201,13 @@
   },
   "active": "6c8395bae4e44361",
   "lastOpenFiles": [
-    "git/02 常用操作.md",
+    "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md",
+    "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
+    "c++/CS106L/09 操作符重载/README.md",
+    "c++/CS106L/08 function and lambda/README.md",
+    "c++/CS106L/09 操作符重载",
     "git/命令使用/01 基础操作.md",
+    "git/02 常用操作.md",
     "git/命令使用",
     "git/01 git基础/02 基本操作.md",
     "git/课程/01 git基础/02 基本操作.md",
@@ -221,7 +226,6 @@
     "git/课程/03 git进阶/02 恢复丢失的commit.md",
     "git/课程/03 git进阶/01 Stash.md",
     "git/课程/03 git进阶",
-    "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md",
     "git/课程",
     "opengl/learn opengl/4 advanced opengl/4.4 面剔除.md",
     "opengl/learn opengl/4 advanced opengl/4.3 blending.md",
@@ -231,12 +235,8 @@
     "缺失的东西/未命名",
     "缺失的东西",
     "opengl/learn opengl/1 start/1.8Coordinate System.md",
-    "opengl/learn opengl/1 start/1.9Camera.md",
-    "opengl/learn opengl/1 start/1.7transformation.md",
-    "opengl/附加/02 封装.md",
     "opengl/附加",
     "xmake/a tour of cmake",
-    "xmake",
     "utils/Pasted image 20230519233758.png",
     "未命名.canvas",
     "opengl/learn opengl/00 code/p1/LearnOpengl/awesomeface.png",
