@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "01 基础操作",
+      "path": "git/命令使用/01 基础操作.md"
+    },
+    {
+      "basename": "01 Assimp 库导入流程",
+      "path": "opengl/附加/01 Assimp 库导入流程.md"
+    },
+    {
       "basename": "4.6 立方体贴图",
       "path": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md"
     },
@@ -65,20 +73,12 @@
       "path": "c++/CS106L/08 function and lambda/README.md"
     },
     {
-      "basename": "01 基础操作",
-      "path": "git/命令使用/01 基础操作.md"
-    },
-    {
       "basename": "02 常用操作",
       "path": "git/02 常用操作.md"
     },
     {
       "basename": "01 shell",
       "path": "缺失的东西/01 shell.md"
-    },
-    {
-      "basename": "01 Assimp 库导入流程",
-      "path": "opengl/附加/01 Assimp 库导入流程.md"
     },
     {
       "basename": "1.9Camera",

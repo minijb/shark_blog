@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
+                "file": "git/命令使用/01 基础操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "80301dbd85497cd2",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
+                "file": "git/命令使用/01 基础操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
+                "file": "git/命令使用/01 基础操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md"
+                "file": "git/命令使用/01 基础操作.md"
               }
             }
           },
@@ -160,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "8bb332315f956921",
@@ -179,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,9 +200,11 @@
   },
   "active": "6c8395bae4e44361",
   "lastOpenFiles": [
+    "utils/Pasted image 20230601234742.png",
+    "opengl/附加/01 Assimp 库导入流程.md",
+    "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
     "opengl/learn opengl/1 start/1.8Coordinate System.md",
     "opengl/learn opengl/1 start/1.7transformation.md",
-    "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
     "opengl/learn opengl/4 advanced opengl/4.4 面剔除.md",
     "opengl/learn opengl/4 advanced opengl/4.3 blending.md",
     "opengl/learn opengl/4 advanced opengl/4.2 Stencil testing.md",
@@ -227,8 +229,6 @@
     "git/课程/04 github/5 delete_remote_branch.md",
     "git/课程/04 github/4 upstream.md",
     "git/课程/04 github/3 clone.md",
-    "git/课程/04 github/2 tracking branch.md",
-    "git/课程/04 github/1 local_to_remote.md",
     "git/课程/04 github",
     "git/课程/03 git进阶",
     "git/课程",
