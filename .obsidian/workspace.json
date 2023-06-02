@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c8395bae4e44361",
+            "id": "8095be8dbee627a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/命令使用/01 基础操作.md",
+                "file": "tips/python/深度学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "80301dbd85497cd2",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/命令使用/01 基础操作.md",
+                "file": "tips/python/深度学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/命令使用/01 基础操作.md",
+                "file": "tips/python/深度学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/命令使用/01 基础操作.md"
+                "file": "tips/python/深度学习.md"
               }
             }
           },
@@ -180,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,37 +198,39 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6c8395bae4e44361",
+  "active": "8095be8dbee627a8",
   "lastOpenFiles": [
+    "深度学习/tips.md",
+    "深度学习/Prototypical Residual Networks for Anomaly Detection and Localization/论文.md",
+    "深度学习/Masked Autoencoders Are Scalable Vision Learners/论文.md",
+    "tips/python/深度学习.md",
+    "tips/python/编程.md",
+    "tips/python/anaconda.md",
+    "tips/python/jupyter.md",
+    "git/课程/04 github/2 tracking branch.md",
+    "git/课程/04 github/1 local_to_remote.md",
+    "git/课程/03 git进阶/06 tag.md",
+    "git/课程/03 git进阶/05 hand conflict.md",
+    "git/命令使用/05 合并分支.md",
+    "git/课程/03 git进阶/03 合并分支.md",
+    "git/课程/03 git进阶/04 rebase.md",
+    "git/课程/03 git进阶/02 恢复丢失的commit.md",
+    "git/课程/03 git进阶/01 Stash.md",
+    "git/课程/01 git基础/02 基本操作.md",
+    "git/命令使用/04 删除文件.md",
+    "utils/Pasted image 20230602111323.png",
+    "git/课程/01 git基础/01 基础概念.md",
+    "git/命令使用/03 --amend.md",
+    "git/命令使用/02 rebase -i.md",
+    "git/命令使用/01 基础操作.md",
+    "git/02 常用操作.md",
     "utils/Pasted image 20230601234742.png",
     "opengl/附加/01 Assimp 库导入流程.md",
     "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
     "opengl/learn opengl/1 start/1.8Coordinate System.md",
-    "opengl/learn opengl/1 start/1.7transformation.md",
-    "opengl/learn opengl/4 advanced opengl/4.4 面剔除.md",
-    "opengl/learn opengl/4 advanced opengl/4.3 blending.md",
-    "opengl/learn opengl/4 advanced opengl/4.2 Stencil testing.md",
-    "opengl/learn opengl/4 advanced opengl/4.1 depth testing.md",
-    "opengl/learn opengl/3 model loading/3.3 model.md",
-    "opengl/learn opengl/3 model loading/3.2 mesh.md",
-    "opengl/learn opengl/3 model loading/3.1 Assimp.md",
-    "tips/python/编程.md",
-    "tips/python/jupyter.md",
-    "tips/python/anaconda.md",
-    "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md",
-    "c++/CS106L/09 操作符重载/README.md",
-    "c++/CS106L/08 function and lambda/README.md",
     "c++/CS106L/09 操作符重载",
-    "git/命令使用/01 基础操作.md",
-    "git/02 常用操作.md",
     "git/命令使用",
-    "git/01 git基础/02 基本操作.md",
-    "git/课程/01 git基础/02 基本操作.md",
-    "git/课程/01 git基础/01 基础概念.md",
     "git/课程/01 git基础",
-    "git/课程/04 github/5 delete_remote_branch.md",
-    "git/课程/04 github/4 upstream.md",
-    "git/课程/04 github/3 clone.md",
     "git/课程/04 github",
     "git/课程/03 git进阶",
     "git/课程",
@@ -245,8 +247,6 @@
     "utils/Pasted image 20230510144646.png",
     "utils/Pasted image 20230427230201.png",
     "utils/Pasted image 20230427230351.png",
-    "utils/Pasted image 20230427230310.png",
-    "utils/Pasted image 20230427225329.png",
     "Untitled.canvas"
   ]
 }

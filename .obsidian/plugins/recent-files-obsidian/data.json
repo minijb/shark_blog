@@ -1,8 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "深度学习",
+      "path": "tips/python/深度学习.md"
+    },
+    {
+      "basename": "tips",
+      "path": "深度学习/tips.md"
+    },
+    {
+      "basename": "论文",
+      "path": "深度学习/Prototypical Residual Networks for Anomaly Detection and Localization/论文.md"
+    },
+    {
+      "basename": "论文",
+      "path": "深度学习/Masked Autoencoders Are Scalable Vision Learners/论文.md"
+    },
+    {
+      "basename": "编程",
+      "path": "tips/python/编程.md"
+    },
+    {
+      "basename": "anaconda",
+      "path": "tips/python/anaconda.md"
+    },
+    {
+      "basename": "jupyter",
+      "path": "tips/python/jupyter.md"
+    },
+    {
+      "basename": "2 tracking branch",
+      "path": "git/课程/04 github/2 tracking branch.md"
+    },
+    {
+      "basename": "1 local_to_remote",
+      "path": "git/课程/04 github/1 local_to_remote.md"
+    },
+    {
+      "basename": "06 tag",
+      "path": "git/课程/03 git进阶/06 tag.md"
+    },
+    {
+      "basename": "05 hand conflict",
+      "path": "git/课程/03 git进阶/05 hand conflict.md"
+    },
+    {
+      "basename": "05 合并分支",
+      "path": "git/命令使用/05 合并分支.md"
+    },
+    {
+      "basename": "03 合并分支",
+      "path": "git/课程/03 git进阶/03 合并分支.md"
+    },
+    {
+      "basename": "04 rebase",
+      "path": "git/课程/03 git进阶/04 rebase.md"
+    },
+    {
+      "basename": "02 恢复丢失的commit",
+      "path": "git/课程/03 git进阶/02 恢复丢失的commit.md"
+    },
+    {
+      "basename": "01 Stash",
+      "path": "git/课程/03 git进阶/01 Stash.md"
+    },
+    {
+      "basename": "02 基本操作",
+      "path": "git/课程/01 git基础/02 基本操作.md"
+    },
+    {
+      "basename": "04 删除文件",
+      "path": "git/命令使用/04 删除文件.md"
+    },
+    {
+      "basename": "01 基础概念",
+      "path": "git/课程/01 git基础/01 基础概念.md"
+    },
+    {
+      "basename": "03 --amend",
+      "path": "git/命令使用/03 --amend.md"
+    },
+    {
+      "basename": "02 rebase -i",
+      "path": "git/命令使用/02 rebase -i.md"
+    },
+    {
       "basename": "01 基础操作",
       "path": "git/命令使用/01 基础操作.md"
+    },
+    {
+      "basename": "02 常用操作",
+      "path": "git/02 常用操作.md"
     },
     {
       "basename": "01 Assimp 库导入流程",
@@ -49,18 +137,6 @@
       "path": "opengl/learn opengl/3 model loading/3.1 Assimp.md"
     },
     {
-      "basename": "编程",
-      "path": "tips/python/编程.md"
-    },
-    {
-      "basename": "jupyter",
-      "path": "tips/python/jupyter.md"
-    },
-    {
-      "basename": "anaconda",
-      "path": "tips/python/anaconda.md"
-    },
-    {
       "basename": "4.5 帧缓冲",
       "path": "opengl/learn opengl/4 advanced opengl/4.5 帧缓冲.md"
     },
@@ -71,10 +147,6 @@
     {
       "basename": "README",
       "path": "c++/CS106L/08 function and lambda/README.md"
-    },
-    {
-      "basename": "02 常用操作",
-      "path": "git/02 常用操作.md"
     },
     {
       "basename": "01 shell",
@@ -127,78 +199,6 @@
     {
       "basename": "README",
       "path": "c++/CS106L/07 template function/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "c++/CS106L/06 class and const/README.md"
-    },
-    {
-      "basename": "2.6 multiple lights",
-      "path": "opengl/learn opengl/2 light/2.6 multiple lights.md"
-    },
-    {
-      "basename": "2.4Lighting_maps",
-      "path": "opengl/learn opengl/2 light/2.4Lighting_maps.md"
-    },
-    {
-      "basename": "1.3hellowindow",
-      "path": "opengl/learn opengl/1 start/1.3hellowindow.md"
-    },
-    {
-      "basename": "1.4helloTriangle",
-      "path": "opengl/learn opengl/1 start/1.4helloTriangle.md"
-    },
-    {
-      "basename": "1.2createWindow",
-      "path": "opengl/learn opengl/1 start/1.2createWindow.md"
-    },
-    {
-      "basename": "1.1opengl",
-      "path": "opengl/learn opengl/1 start/1.1opengl.md"
-    },
-    {
-      "basename": "12_useLiraries",
-      "path": "c++/网络教程/12_useLiraries.md"
-    },
-    {
-      "basename": "9_对象的生命周期",
-      "path": "c++/网络教程/9_对象的生命周期.md"
-    },
-    {
-      "basename": "8_操作符重载",
-      "path": "c++/网络教程/8_操作符重载.md"
-    },
-    {
-      "basename": "7_c++中的关键字",
-      "path": "c++/网络教程/7_c++中的关键字.md"
-    },
-    {
-      "basename": "6_arrays and string",
-      "path": "c++/网络教程/6_arrays and string.md"
-    },
-    {
-      "basename": "5_基础类型和类",
-      "path": "c++/网络教程/5_基础类型和类.md"
-    },
-    {
-      "basename": "4_visual studio setup",
-      "path": "c++/网络教程/4_visual studio setup.md"
-    },
-    {
-      "basename": "3_变量、方法、头文件",
-      "path": "c++/网络教程/3_变量、方法、头文件.md"
-    },
-    {
-      "basename": "2_c++编译器是如何工作的",
-      "path": "c++/网络教程/2_c++编译器是如何工作的.md"
-    },
-    {
-      "basename": "1_c++是如何工作的",
-      "path": "c++/网络教程/1_c++是如何工作的.md"
-    },
-    {
-      "basename": "2.2Basic lighting",
-      "path": "opengl/learn opengl/2 light/2.2Basic lighting.md"
     }
   ],
   "omittedPaths": [],
