@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96fe45bf69ad9973",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -198,7 +209,7 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6c8395bae4e44361",
+  "active": "96fe45bf69ad9973",
   "lastOpenFiles": [
     "utils/Pasted image 20230601234742.png",
     "opengl/附加/01 Assimp 库导入流程.md",
