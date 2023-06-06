@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "4.7 实例化",
+      "path": "opengl/learn opengl/4 advanced opengl/4.7 实例化.md"
+    },
+    {
+      "basename": "Drawing 2023-06-06 19.53.35.excalidraw",
+      "path": "Excalidraw/Drawing 2023-06-06 19.53.35.excalidraw.md"
+    },
+    {
+      "basename": "4.6 立方体贴图",
+      "path": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md"
+    },
+    {
       "basename": "深度学习",
       "path": "tips/python/深度学习.md"
     },
@@ -97,10 +109,6 @@
       "path": "opengl/附加/01 Assimp 库导入流程.md"
     },
     {
-      "basename": "4.6 立方体贴图",
-      "path": "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md"
-    },
-    {
       "basename": "1.8Coordinate System",
       "path": "opengl/learn opengl/1 start/1.8Coordinate System.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "1.6Texture",
       "path": "opengl/learn opengl/1 start/1.6Texture.md"
-    },
-    {
-      "basename": "2.5 Light casters 光源投射物",
-      "path": "opengl/learn opengl/2 light/2.5 Light casters 光源投射物.md"
-    },
-    {
-      "basename": "2.3Materials",
-      "path": "opengl/learn opengl/2 light/2.3Materials.md"
-    },
-    {
-      "basename": "README",
-      "path": "c++/CS106L/07 template function/README.md"
     }
   ],
   "omittedPaths": [],

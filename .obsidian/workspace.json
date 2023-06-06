@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tips/python/深度学习.md",
+                "file": "opengl/learn opengl/4 advanced opengl/4.7 实例化.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "96fe45bf69ad9973",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -118,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tips/python/深度学习.md",
+                "file": "opengl/learn opengl/4 advanced opengl/4.7 实例化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tips/python/深度学习.md",
+                "file": "opengl/learn opengl/4 advanced opengl/4.7 实例化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tips/python/深度学习.md"
+                "file": "opengl/learn opengl/4 advanced opengl/4.7 实例化.md"
               }
             }
           },
@@ -211,10 +200,15 @@
   },
   "active": "8095be8dbee627a8",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Excalidraw/Drawing 2023-06-06 19.53.35.excalidraw.md",
+    "Excalidraw",
+    "opengl/learn opengl/4 advanced opengl/4.7 实例化.md",
+    "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
+    "tips/python/深度学习.md",
     "深度学习/tips.md",
     "深度学习/Prototypical Residual Networks for Anomaly Detection and Localization/论文.md",
     "深度学习/Masked Autoencoders Are Scalable Vision Learners/论文.md",
-    "tips/python/深度学习.md",
     "tips/python/编程.md",
     "tips/python/anaconda.md",
     "tips/python/jupyter.md",
@@ -234,11 +228,7 @@
     "git/命令使用/03 --amend.md",
     "git/命令使用/02 rebase -i.md",
     "git/命令使用/01 基础操作.md",
-    "git/02 常用操作.md",
     "utils/Pasted image 20230601234742.png",
-    "opengl/附加/01 Assimp 库导入流程.md",
-    "opengl/learn opengl/4 advanced opengl/4.6 立方体贴图.md",
-    "opengl/learn opengl/1 start/1.8Coordinate System.md",
     "c++/CS106L/09 操作符重载",
     "git/命令使用",
     "git/课程/01 git基础",
@@ -248,9 +238,7 @@
     "缺失的东西/未命名",
     "缺失的东西",
     "opengl/附加",
-    "xmake/a tour of cmake",
     "utils/Pasted image 20230519233758.png",
-    "未命名.canvas",
     "opengl/learn opengl/00 code/p1/LearnOpengl/awesomeface.png",
     "opengl/learn opengl/00 code/p1/LearnOpengl/container.jpg",
     "opengl/learn opengl/00 code/LearnOpengl/LearnOpengl/container.jpg",
